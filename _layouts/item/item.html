@@ -18,17 +18,3 @@ layout: item/item-page-base
 
     </div>
 </div>
-{% if page.manifest_url %}
-  <div id="mirador-viewer" style="height: 600px;"></div>
-  <script>
-    document.addEventListener("DOMContentLoaded", function () {
-      Mirador.viewer({
-        id: "mirador-viewer",
-        windows: [{
-          manifestId: "{{ page.manifest_url }}",
-          canvasIndex: 0
-        }]
-      });
-    });
-  </script>
-{% endif %}
