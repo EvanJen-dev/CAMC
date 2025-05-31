@@ -1,2 +1,2 @@
 objectid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
-BNFCopte13,Copte 13,,1178-1180,,,,,,Bibliothèque nationale de France,,Image;StillImage,application/manifest+json,cop,,,_includes/item/iiif-manifest-universal-viewer.html,objects/BNFCopte13.json,,,,
+BNFCopte13,Copte 13,,1178-1180,,,,,,Bibliothèque nationale de France,,Image;StillImage,application/manifest+json,cop,,,_includes/item/iiif-manifest-universal-viewer.html,https://gallica.bnf.fr/iiif/ark:/12148/btv1b52508833q/manifest.json,,,,
