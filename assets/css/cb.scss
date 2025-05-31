@@ -43,5 +43,5 @@ $theme-link-color: {{ site.data.theme.link-color | default: '""' }};
 @use "custom";
 
 body {
-  background-color: ###ededed; // light grey
+  background-color: #ededed; // light grey
 }
