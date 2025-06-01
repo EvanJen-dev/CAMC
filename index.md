@@ -13,5 +13,3 @@ btn-color: "primary"
 ---
 
 {% include carousel.html %}
-
-Welcome to my digital manuscript site! Here are some featured items.
