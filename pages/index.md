@@ -1,6 +1,7 @@
 ---
-layout: page
-title: Welcome to My Site
+layout: home-infographic
+title: Home
+permalink: /
 carousel-items:
   - title: "Manuscript Leaf"
     objectid: "copte13,8v"
@@ -10,10 +11,5 @@ carousel-max: 5
 btn-text: "View Item"
 btn-color: "primary"
 ---
-{% include carousel.html %}
----
-layout: home-infographic
-title: Home
-permalink: /
----
 
+{% include carousel.html %}
