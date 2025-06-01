@@ -3,7 +3,7 @@ layout: home-infographic
 title: Home
 permalink: /
 carousel-items:
-  - title: "Manuscript Leaf"
+  - title: "BnF Copte 13, 8v"
     objectid: "copte13_8v"
     image_thumb: "assets/img/copte13_8v.png"
     image_alt_text: "Greek manuscript leaf"
@@ -12,4 +12,4 @@ btn-text: "View Item"
 btn-color: "primary"
 ---
 
-{% include carousel.html %}
+{% include carousel.html title="Featured Manuscripts" height=400 %}
