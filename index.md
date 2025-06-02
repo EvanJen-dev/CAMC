@@ -1,6 +1,6 @@
 ---
 layout: home-infographic
-title: Home
+title: Sample
 permalink: /
 carousel-items:
   - title: "BnF Copte 13, 8v"
@@ -10,4 +10,4 @@ carousel-items:
 carousel-max: 5
 ---
 
-{% include carousel.html title="Featured Manuscripts" height=400 %}
+{% include carousel.html title="Featured Manuscripts" height=600 %}
