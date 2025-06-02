@@ -8,8 +8,6 @@ carousel-items:
     image_thumb: "/assets/img/copte13_8v.png"
     image_alt_text: "Greek manuscript leaf"
 carousel-max: 5
-btn-text: ""
-btn-color: ""
 ---
 
 {% include carousel.html title="Featured Manuscripts" height=400 %}
